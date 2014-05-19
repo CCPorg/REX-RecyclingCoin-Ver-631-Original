@@ -1,0 +1,9 @@
+Building RecyclingCoin
+
+See doc/readme-qt.rst for instructions on building RecyclingCoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of RecyclingCoin.
+
+See doc/build-*.txt for instructions on building RecyclingCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of RecyclingCoin.
